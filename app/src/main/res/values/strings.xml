@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Detik.com App</string>
+    <string name="tv_terbaru">Terbaru</string>
+    <string name="tv_berita_utama">Berita Utama</string>
+    <string name="tv_antarkansemangat">#antarkansemangat</string>
+    <string name="tv_most_popular">Most Popular</string>
+    <string name="text_most_popular">Most Popular</string>
+    <string name="iv_contdesc">contdesc</string>
+    <string name="tv_judul_headline">Judul Headline</string>
+    <string name="tv_deskripsi_headline">Deskripsi Headline</string>
+    <string name="it_home">Home</string>
+    <string name="ic_kategori">Kategori</string>
+    <string name="ic_layanan">Layanan</string>
+    <string name="ic_video">Video</string>
+    <string name="ic_home2">Home</string>
+    <string name="tv_judulheadline">JudulHeadline</string>
+    <string name="tv_deskripsi">Deskripsi Headline</string>
+    <string name="fotodesc">foto Descripsi</string>
+    <string name="detiknews">DetikNews</string>
+    <string name="judul_berita">Judul Berita</string>
+    <string name="arief_ikhsanudin">Arief Ikhsanudin - detikNews</string>
+    <string name="txt_date">Selasa, 08 Des 2020 10:48 WIB</string>
+    <string name="loremsum">Jakarta - Menteri Dalam Negeri (Mendagri) Tito Karnavian melangsungkan rapat koordinasi kesiapan pemungutan suara Pilkada 2020. Tito ingin memastikan tahapan Pilkada 2020 berjalan dengan lancar khususnya di tengah pandemi virus Corona. Dalan rapat koordinasi tersebut, hadir pula Ketua Bawaslu, Abhan, Ketua BNPB Doni Monardo, Ketua DKPP, Muhammad. Selain itu, hadir pula pejabat-pejabat dari Kemengadri, KPU, Bawaslu, TNI, dan Polri secara langsung maupun virtual. Tito berharap tahapan Pilkada serentak 2020 berjalan dengan lancar. Hari pemungutan suara merupakan puncak dari tahapan Pilkada serentak.</string>
+    <string name="deskripsi_headline">Deskripsi Headline</string>
+    <string name="todoo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="bacajugayanglain">Baca Juga : Judul Berita Terkait</string>
+
+
+</resources>
